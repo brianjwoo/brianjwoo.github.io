@@ -1,0 +1,12 @@
+<!doctype html>
+
+<html>
+    <head>
+        <title>Test Page3 with HTML and CSS</title>
+        <link rel="stylesheet" href="stylesheets/styles.css">
+    </head>
+
+    <body>
+        <h1> Test to see CSS<h1>
+    </body>
+</html>
